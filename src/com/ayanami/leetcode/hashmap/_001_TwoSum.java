@@ -1,4 +1,4 @@
-package com.ayanami.leetcode.hash;
+package com.ayanami.leetcode.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;
