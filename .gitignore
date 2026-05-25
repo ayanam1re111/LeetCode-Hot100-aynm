@@ -28,3 +28,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IDEA 相关文件
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+# 编译输出目录
+out/
+build/
+target/
+
+# 其他
+*.log
+.DS_Store
